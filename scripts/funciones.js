@@ -84,7 +84,7 @@ function factorial(num) {
 
 console.log("Factorial de 4 = " + factorial(4));
 
-///+++++++++++++++++++++++++++++ Rest Parameters++++++++++++++++++
+///+++++++++++++++++++++++++++++ Rest Parameters ++++++++++++++++++
 
 // (parameters => operation)
 // (param1, param2) => {
